@@ -1,3 +1,3 @@
 ### cpp-examp
 
-your first line of code when coding with c++ 
+your first few lines of code when coding with c++ 
